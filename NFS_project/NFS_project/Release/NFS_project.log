@@ -1,0 +1,13 @@
+﻿Построение начато 20.01.2014 22:05:19.
+     1>Проект "C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\NFS_project\NFS_project.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\Release\NFS_project.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Дима\Documents\Visual Studio 2012\Projects\hge181\lib\vc" hge.lib hgehelp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\Release\NFS_project.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:NOICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\Release\NFS_project.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\NFS_project.res
+         Release\NFS_project.obj
+         Release\objectcl.obj
+         Release\stdafx.obj
+         NFS_project.vcxproj -> C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\Release\NFS_project.exe
+     1>Построение проекта "C:\Users\Дима\Documents\Visual Studio 2012\Projects\NFS_project\NFS_project\NFS_project.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.93
